@@ -3,13 +3,11 @@
 :root {
     --primary: #6c63ff;
     --primary-dark: #5a52e0;
-    --primary-soft: #8b84ff;
     --dark: #1a1a1a;
     --text: #555555;
     --muted: #a3a3a3;
     --line: #cfcfcf;
     --bg-soft: #fdfcfa;
-    --bg-shape: #f6f6f6;
     --white: #ffffff;
 
     --font: "Montserrat", sans-serif;
